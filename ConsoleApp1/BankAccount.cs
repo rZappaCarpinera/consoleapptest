@@ -10,7 +10,7 @@ namespace ConsoleApp1
 {
     public class BankAccount
     {
-        private static int s_idConto = 2;     //convenzione che si scriva s(static) e _ ad intendere private
+        private static int s_idConto = 34445355;     //convenzione che si scriva s(static) e _ ad intendere private
         private string _proprietario;  //field
         private decimal _saldo;
         private int _id;
